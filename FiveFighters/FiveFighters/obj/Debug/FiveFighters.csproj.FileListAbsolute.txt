@@ -1,0 +1,7 @@
+D:\clessons\FiveFighters\FiveFighters\bin\Debug\FiveFighters.exe.config
+D:\clessons\FiveFighters\FiveFighters\bin\Debug\FiveFighters.exe
+D:\clessons\FiveFighters\FiveFighters\bin\Debug\FiveFighters.pdb
+D:\clessons\FiveFighters\FiveFighters\obj\Debug\FiveFighters.csprojAssemblyReference.cache
+D:\clessons\FiveFighters\FiveFighters\obj\Debug\FiveFighters.csproj.CoreCompileInputs.cache
+D:\clessons\FiveFighters\FiveFighters\obj\Debug\FiveFighters.exe
+D:\clessons\FiveFighters\FiveFighters\obj\Debug\FiveFighters.pdb
